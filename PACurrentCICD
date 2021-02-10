@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-10T19:59:16.725Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="OyUV3lJ_Rs8vOAZB6qHQ" version="14.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-02-10T19:59:43.306Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="KZFAxTE4DEJ3azx3FW_V" version="14.3.0" type="github">
   <diagram id="miUswzDEBwyQNvGsRwTk" name="Page-1">
     <mxGraphModel dx="780" dy="1122" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
             <mxPoint x="460" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sjvBAhGlldTQrIijZxSC-42" value="Pull Artifacts" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="sjvBAhGlldTQrIijZxSC-41">
+        <mxCell id="sjvBAhGlldTQrIijZxSC-42" value="Pull Artifacts and Deploy" style="edgeLabel;resizable=0;html=1;align=center;verticalAlign=middle;" connectable="0" vertex="1" parent="sjvBAhGlldTQrIijZxSC-41">
           <mxGeometry relative="1" as="geometry">
             <mxPoint y="13" as="offset" />
           </mxGeometry>
